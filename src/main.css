@@ -1,0 +1,8 @@
+.board {
+    background-color: white;
+    margin: auto;
+    margin-top: 20vh;
+    border-radius: 6px;
+    display: block;
+    box-shadow: 0 1px 3px rgba(26,26,26,.1);
+}
